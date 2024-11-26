@@ -1,0 +1,12 @@
+E:\Programming\Project 19\Project\Testing Console App\bin\Debug\Testing Console App.exe.config
+E:\Programming\Project 19\Project\Testing Console App\bin\Debug\Testing Console App.exe
+E:\Programming\Project 19\Project\Testing Console App\bin\Debug\Testing Console App.pdb
+E:\Programming\Project 19\Project\Testing Console App\bin\Debug\DVLD Business Layer.dll
+E:\Programming\Project 19\Project\Testing Console App\bin\Debug\DVLD Data Layer.dll
+E:\Programming\Project 19\Project\Testing Console App\bin\Debug\DVLD Business Layer.pdb
+E:\Programming\Project 19\Project\Testing Console App\bin\Debug\DVLD Data Layer.pdb
+E:\Programming\Project 19\Project\Testing Console App\obj\Debug\Testing Console App.csproj.AssemblyReference.cache
+E:\Programming\Project 19\Project\Testing Console App\obj\Debug\Testing Console App.csproj.CoreCompileInputs.cache
+E:\Programming\Project 19\Project\Testing Console App\obj\Debug\Testing .36DD8F0F.Up2Date
+E:\Programming\Project 19\Project\Testing Console App\obj\Debug\Testing Console App.exe
+E:\Programming\Project 19\Project\Testing Console App\obj\Debug\Testing Console App.pdb

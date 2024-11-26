@@ -1,0 +1,9 @@
+E:\Programming\Project 19\Project\DVLD Business Layer\bin\Debug\DVLD Business Layer.dll
+E:\Programming\Project 19\Project\DVLD Business Layer\bin\Debug\DVLD Business Layer.pdb
+E:\Programming\Project 19\Project\DVLD Business Layer\obj\Debug\DVLD Business Layer.csproj.AssemblyReference.cache
+E:\Programming\Project 19\Project\DVLD Business Layer\obj\Debug\DVLD Business Layer.csproj.CoreCompileInputs.cache
+E:\Programming\Project 19\Project\DVLD Business Layer\obj\Debug\DVLD Business Layer.dll
+E:\Programming\Project 19\Project\DVLD Business Layer\obj\Debug\DVLD Business Layer.pdb
+E:\Programming\Project 19\Project\DVLD Business Layer\bin\Debug\DVLD Data Layer.dll
+E:\Programming\Project 19\Project\DVLD Business Layer\bin\Debug\DVLD Data Layer.pdb
+E:\Programming\Project 19\Project\DVLD Business Layer\obj\Debug\DVLD Bus.C961306A.Up2Date

@@ -1,0 +1,6 @@
+E:\Programming\Project 19\Project\DVLD Data Layer\bin\Debug\DVLD Data Layer.dll
+E:\Programming\Project 19\Project\DVLD Data Layer\bin\Debug\DVLD Data Layer.pdb
+E:\Programming\Project 19\Project\DVLD Data Layer\obj\Debug\DVLD Data Layer.csproj.AssemblyReference.cache
+E:\Programming\Project 19\Project\DVLD Data Layer\obj\Debug\DVLD Data Layer.csproj.CoreCompileInputs.cache
+E:\Programming\Project 19\Project\DVLD Data Layer\obj\Debug\DVLD Data Layer.dll
+E:\Programming\Project 19\Project\DVLD Data Layer\obj\Debug\DVLD Data Layer.pdb

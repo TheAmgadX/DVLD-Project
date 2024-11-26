@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Programming\\Project 19\\Project\\DVLD Project #19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF34F4ED-51EF-4800-9F8F-214D2127A246}|DVLD Presentation Layer.csproj|e:\\programming\\project 19\\project\\dvld project #19\\applications\\applicationsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AF34F4ED-51EF-4800-9F8F-214D2127A246}|DVLD Presentation Layer.csproj|solutionrelative:applications\\applicationsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF34F4ED-51EF-4800-9F8F-214D2127A246}|DVLD Presentation Layer.csproj|E:\\Programming\\Project 19\\Project\\DVLD Project #19\\applications\\applicationsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF34F4ED-51EF-4800-9F8F-214D2127A246}|DVLD Presentation Layer.csproj|solutionrelative:applications\\applicationsfrm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9580F2-F23C-4DD1-A1FE-82FBC2E62F5B}|..\\DVLD Data Layer\\DVLD Data Layer.csproj|e:\\programming\\project 19\\project\\dvld data layer\\licenses\\newlocallicenseapplicationdatalayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4476E6C-86CE-4A56-BB28-00483190C94D}|..\\DVLD Business Layer\\DVLD Business Layer.csproj|e:\\programming\\project 19\\project\\dvld business layer\\locallicenseapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewLocalLicenseApplicationDataLayer.cs",
+              "DocumentMoniker": "E:\\Programming\\Project 19\\Project\\DVLD Data Layer\\Licenses\\NewLocalLicenseApplicationDataLayer.cs",
+              "RelativeDocumentMoniker": "..\\DVLD Data Layer\\Licenses\\NewLocalLicenseApplicationDataLayer.cs",
+              "ToolTip": "E:\\Programming\\Project 19\\Project\\DVLD Data Layer\\Licenses\\NewLocalLicenseApplicationDataLayer.cs",
+              "RelativeToolTip": "..\\DVLD Data Layer\\Licenses\\NewLocalLicenseApplicationDataLayer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAArwHoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:24:31.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocalLicenseApplication.cs",
+              "DocumentMoniker": "E:\\Programming\\Project 19\\Project\\DVLD Business Layer\\LocalLicenseApplication.cs",
+              "RelativeDocumentMoniker": "..\\DVLD Business Layer\\LocalLicenseApplication.cs",
+              "ToolTip": "E:\\Programming\\Project 19\\Project\\DVLD Business Layer\\LocalLicenseApplication.cs",
+              "RelativeToolTip": "..\\DVLD Business Layer\\LocalLicenseApplication.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAArwGUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T14:28:56.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Applicationsfrm.cs [Design]",
+              "DocumentMoniker": "E:\\Programming\\Project 19\\Project\\DVLD Project #19\\Applications\\Applicationsfrm.cs",
+              "RelativeDocumentMoniker": "Applications\\Applicationsfrm.cs",
+              "ToolTip": "E:\\Programming\\Project 19\\Project\\DVLD Project #19\\Applications\\Applicationsfrm.cs [Design]*",
+              "RelativeToolTip": "Applications\\Applicationsfrm.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T17:19:51.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Applicationsfrm.cs",
+              "DocumentMoniker": "E:\\Programming\\Project 19\\Project\\DVLD Project #19\\Applications\\Applicationsfrm.cs",
+              "RelativeDocumentMoniker": "Applications\\Applicationsfrm.cs",
+              "ToolTip": "E:\\Programming\\Project 19\\Project\\DVLD Project #19\\Applications\\Applicationsfrm.cs*",
+              "RelativeToolTip": "Applications\\Applicationsfrm.cs*",
+              "ViewState": "AgIAAI4AAAAAAAAAAIA/wP8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T16:16:30.004Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
